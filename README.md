@@ -1,6 +1,6 @@
 ### Hi there 👋💃
 
-<img src="https://github.com/umeenukrishnan/umeenukrishnan/blob/main/blog.mp4" alt="banner that says U. Meenu Krishnan - fracture mechanics, topology optimization, phase field method.">
+<img src="https://github.com/umeenukrishnan/umeenukrishnan/blob/main/blog.gif" alt="banner that says U. Meenu Krishnan - fracture mechanics, topology optimization, phase field method.">
 
 I want to state a principle that I abide by:
 

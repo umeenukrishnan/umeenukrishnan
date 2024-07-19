@@ -1,6 +1,12 @@
 ### Hi there 👋💃
 
-<img src="https://github.com/umeenukrishnan/umeenukrishnan/blob/main/1721411102909.jpeg" alt="banner that says U. Meenu Krishnan - fracture mechanics, topology optimization, phase field method.">
+<img src="https://github.com/umeenukrishnan/umeenukrishnan/blob/main/blog.mp4" alt="banner that says U. Meenu Krishnan - fracture mechanics, topology optimization, phase field method.">
+
+I want to state a principle that I abide by:
+
+> “It’s not just about the supercomputers available but about how smartly one designs and optimizes the code to efficiently use the available resources.”
+
+
 
 I am a Research scholar in computational mechanics. Since January 2019, I have been working in the [Computational Mechanics Lab](https://computationalmechanics.in/rajib_teams/u-meenu-krishnan-2/), focusing on the phase field method. 
 

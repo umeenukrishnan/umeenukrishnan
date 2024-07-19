@@ -2,7 +2,7 @@
 
 <img src="https://github.com/umeenukrishnan/umeenukrishnan/blob/main/1721411102909.jpeg" alt="banner that says U. Meenu Krishnan - fracture mechanics, topology optimization, phase field method.">
 
-I am a Research scholar in computational mechanics. Since January 2019, I have been working in the Computational Mechanics Lab, focusing on fracture mechanics using the phase field approach to simulate how cracks form and propagate in materials.
+I am a Research scholar in computational mechanics. Since January 2019, I have been working in the [Computational Mechanics Lab](https://computationalmechanics.in/rajib_teams/u-meenu-krishnan-2/), focusing on fracture mechanics using the phase field approach to simulate how cracks form and propagate in materials.
 
 My main goal is to develop a computationally efficient method for solving phase-field fracture problems, enabling us to tackle more realistic and practical challenges. To achieve this, I focus on space adaptivity and parallelizing the code, ensuring that we can accurately capture the details of the fracture process and solve large problems faster using high-performance computing.
 
